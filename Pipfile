@@ -1,0 +1,13 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+azure-cognitiveservices-vision-computervision = "*"
+pillow = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
